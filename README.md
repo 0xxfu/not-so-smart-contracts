@@ -1,2 +1,3 @@
 # not-so-smart-contracts
-Solidity security issues
+
+- [Vulnerabilities related to Uniswap usage](vulnerabilities/usage-of-uniswap.md)
