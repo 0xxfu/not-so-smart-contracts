@@ -1,6 +1,7 @@
 # Not So Smart Contracts
 
 - [Vulnerabilities related to Uniswap usage](vulnerabilities/usage-of-uniswap.md)
+- [Vulnerabilities related to upgradeable smart contracts](vulnerabilities/upgradeable-smart-contracts.md)
 
 ## Checklist
 
