@@ -6,6 +6,7 @@
 ## Checklist
 
 - [Solidity 安全标准](checklist/checklist-cn.md)
+- [The Solidity Security Standard](checklist/checklist-en.md)
 
 # Contributions
 
